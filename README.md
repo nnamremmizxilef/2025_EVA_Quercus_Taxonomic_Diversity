@@ -5,6 +5,10 @@
 **Fine-scale variation in soil properties promotes local taxonomic diversity of hybridizing oak species (_Quercus_ spp.)**
 
 
+## Abstract¨
+
+Although many tree species frequently hybridize and backcross, management decisions in forestry and nature conservation are usually concentrated on pure species. Therefore, understanding which environmental factors drive the distribution and admixture of tree species on a local stand scale is of great interest to support decision-making in the establishment and management of resilient forests. Here, we extensively sampled a mixed stand of hybridizing white oaks (*Quercus petraea* and *Q. pubescens*) near Lake Neuchâtel (Switzerland), where limestone and glacier moraine geologies coexist in proximity, to test whether micro-environmental conditions can predict taxonomic distribution and genetic admixture. We collected DNA from bud tissue, individual soil samples, and extracted high-resolution topographic data for 385 oak trees. We used 50 species-discriminatory single nucleotide polymorphism (SNP) markers to determine the taxonomic composition and admixture levels of individual trees and tested their association with micro-environmental conditions. We show that the trees' taxonomic distribution can be explained mainly by geographic position, soil pH, and potential rooting depth, a proxy for soil water availability. We found that admixed individuals tend to grow in habitats that are characteristic of the more drought-tolerant species *Q. pubescens* rather than in intermediate habitats. Using in situ measurements, we are the first to show that fine-scale variation in soil properties related to pH and water availability potentially drives the distribution of hybridizing tree species in a mixed stand. Microenvironmental variation therefore promotes local taxonomic diversity, facilitates admixture and adaptive introgression, and contributes to the resilience of forests under environmental change. Consequently, species such as white oaks should be managed and protected as a species complex rather than as pure species.
+
 
 ## Authors & Affiliations:
 
